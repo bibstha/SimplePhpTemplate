@@ -1,5 +1,5 @@
 <?php
-class View
+class SPT_View
 {
     public function assign($vars)
     {
